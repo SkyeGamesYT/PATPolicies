@@ -1,6 +1,80 @@
-Pancake's Ability Test:  POLICY
+# Privacy Policy
 
+**Last Updated:** March 6, 2026
 
-We (Pancake's Productions: https://www.roblox.com/communities/34968489/Pancakes-Productions#!/about) will not store, sell, or use data for malicious purposes. 
+## 1. Introduction
 
-We agree to not share any data gained unless it requires legal action via Cybersecurity laws of the user's respected country.
+This Privacy Policy explains how this application ("the Service") collects, uses, and protects information obtained from users who access the Service using Roblox OAuth authentication.
+
+By using the Service, you consent to the collection and use of information as described in this Privacy Policy.
+
+## 2. Information We Collect
+
+When you sign in using Roblox OAuth, the Service may receive the following information from Roblox:
+
+* **Roblox User ID**
+* **Roblox Username**
+* **Public Roblox Avatar Thumbnail**
+
+This information is provided by Roblox through its official OAuth authentication system and is used solely to identify your account within the Service.
+
+The Service **does not collect your Roblox password or login credentials**.
+
+## 3. How We Use Your Information
+
+The information collected may be used for the following purposes:
+
+* Authenticating users through Roblox OAuth
+* Identifying users within the application
+* Assigning and managing user roles or permissions
+* Displaying your Roblox username and avatar within the interface
+* Maintaining moderation or administrative records related to the Service
+
+The Service only collects the **minimum information necessary for these functions**.
+
+## 4. Data Storage
+
+Some information, such as Roblox User IDs and usernames, may be stored in the Service's internal database to maintain user roles, permissions, or administrative logs.
+
+We take reasonable measures to protect stored information from unauthorized access or misuse.
+
+## 5. Data Sharing
+
+We **do not sell, rent, trade, or share your personal information with third parties**.
+
+Information may only be disclosed if required to comply with applicable laws or legal obligations.
+
+## 6. Data Retention
+
+User information is retained only for as long as necessary to operate the Service and maintain its functionality.
+
+If the Service is discontinued or user data is no longer required, stored information may be deleted.
+
+## 7. Third-Party Services
+
+This Service relies on **Roblox OAuth** for authentication. When using the Service, you may also be subject to Roblox's own policies.
+
+You can review Roblox’s policies here:
+
+* https://www.roblox.com/info/privacy
+* https://www.roblox.com/info/terms
+
+## 8. Security
+
+We implement reasonable safeguards to protect information stored by the Service. However, no internet-based system can be guaranteed to be completely secure.
+
+Users should take appropriate steps to protect their own accounts.
+
+## 9. Children's Information
+
+This Service does not knowingly collect additional personal information from children. All authentication is handled through Roblox accounts, which are governed by Roblox’s own policies regarding minors.
+
+## 10. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. When updates occur, the "Last Updated" date at the top of this document will be revised.
+
+Continued use of the Service after updates constitutes acceptance of the revised policy.
+
+## 11. Contact
+
+If you have any questions about this Privacy Policy or how data is handled by the Service, please contact the Service administrator.
