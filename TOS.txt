@@ -1,0 +1,68 @@
+# Terms of Service
+
+**Last Updated:** March 6, 2026
+
+## 1. Acceptance of Terms
+
+By accessing or using this application ("the Service"), you agree to be bound by these Terms of Service. If you do not agree to these terms, you must not use the Service.
+
+This Service uses Roblox's OAuth authentication system to allow users to log in using their Roblox account.
+
+## 2. Roblox Account Authentication
+
+When you log in using Roblox OAuth, the Service may receive limited information from Roblox, including:
+
+* Your **Roblox User ID**
+* Your **Roblox Username**
+* Your **public Roblox avatar thumbnail**
+
+This information is used solely for authentication and identification within the Service.
+
+At no point does the Service receive or store your Roblox password.
+
+## 3. Use of Collected Data
+
+The information obtained through Roblox OAuth is used only for the following purposes:
+
+* Identifying your Roblox account within the application
+* Assigning roles or permissions within the system
+* Displaying your Roblox username and avatar within the interface
+* Maintaining moderation or administrative logs if applicable
+
+We **do not sell, rent, or share your data with third parties**.
+
+## 4. Data Storage
+
+Your Roblox User ID and username may be stored in the application's internal database for the purpose of managing roles, permissions, or moderation activity.
+
+The Service only stores the **minimum data required for operation**.
+
+## 5. Data Sharing
+
+We do **not share, distribute, or sell user data** collected through Roblox OAuth.
+
+User data will only be disclosed if required by law or to comply with legal obligations.
+
+## 6. User Responsibilities
+
+By using the Service, you agree that you will:
+
+* Use the Service only for its intended purpose
+* Not attempt to exploit, abuse, or interfere with the system
+* Not impersonate other Roblox users
+
+Violation of these terms may result in removal of access to the Service.
+
+## 7. Roblox Disclaimer
+
+This Service is **not affiliated with, endorsed by, or sponsored by Roblox Corporation**.
+
+Roblox is a trademark of Roblox Corporation.
+
+## 8. Changes to Terms
+
+We reserve the right to update or modify these Terms of Service at any time. Continued use of the Service after changes are made constitutes acceptance of the updated terms.
+
+## 9. Contact
+
+If you have questions about these Terms of Service or how your data is used, please contact the Service administrator.
